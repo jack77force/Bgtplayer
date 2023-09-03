@@ -17,10 +17,10 @@ from Bikash.config import MUSIC_BOT_NAME, YOUTUBE_IMG_URL
 
 
 themes = [
-    "bik",
-    "bik2",
-    "bik3",
-    "bik4",
+    "Devil ~ 01",
+    "Devil ~ 02",
+    "Devil ~ 03",
+    "Devil ~ 04",
 ]
 
 def changeImageSize(maxWidth, maxHeight, image):
