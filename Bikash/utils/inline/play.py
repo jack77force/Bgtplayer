@@ -392,7 +392,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@motivationalforall9823?si=a9kzmVAEnhnscKDV"
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@motivationalforall9823?si=BNWtnKHhHUdahNbB"
             )
         ],
         [
@@ -438,7 +438,7 @@ def telegram_markup(_, chat_id):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@motivationalforall9823?si=a9kzmVAEnhnscKDV"
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@motivationalforall9823?si=BNWtnKHhHUdahNbB"
             )
         ],
         [
