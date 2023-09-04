@@ -14,7 +14,7 @@ def botplaylist_markup(_):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@motivationalforall9823?si=a9kzmVAEnhnscKDV"
             ),
         ],
         [
@@ -48,7 +48,7 @@ def top_play_markup(_):
         ],
         [           
             InlineKeyboardButton(
-                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@BikashGadgetsTech"
+                text="📱 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📱", url=f"https://youtube.com/@motivationalforall9823?si=a9kzmVAEnhnscKDV"
             ),
         ],
         [
