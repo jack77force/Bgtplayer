@@ -1,14 +1,14 @@
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @Monu_Gupta_01 & @deva_mandal
+# Join @About_Info_Devil For More Update
+# Join @About_Info_Devil For Information 
+# To Help Chats @Monu_Gupta_01
 
 
 # Commands in Every Language
 
 # Bot Commands
 PING_COMMAND : ["ping"]
-START_COMMAND : ["start", "bs"]
+START_COMMAND : ["start", "Mg"]
 HELP_COMMAND : ["help"]
 SETTINGS_COMMAND : ["settings", "setting"]
 RELOAD_COMMAND : ["admincache", "reload"]
@@ -17,8 +17,8 @@ STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lang", "language", "langs"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "bgt", "/bgt", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
-PLAYMODE_COMMAND : ["playmode", "bgtmode"]
+PLAY_COMMAND : ["play", "mkg", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce"]
+PLAYMODE_COMMAND : ["playmode", "mkgmode"]
 CHANNELPLAY_COMMAND : ["channelplay"]
 STREAM_COMMAND : ["stream", "cstream", "streamforce"]
 
@@ -53,10 +53,10 @@ RESTART_COMMAND : ["restart", ".reset", "gpreboot"]
 # Sudo Command
 ADDSUDO_COMMAND : ["addsudo", "adbk", "adbgt"]
 DELSUDO_COMMAND : ["delsudo", "delbk", "delbgt"]
-SUDOUSERS_COMMAND : ["sudolist", "bklist", "bgtlist"]
+SUDOUSERS_COMMAND : ["sudolist", "mglist"]
 
 #Broadcast 
-BROADCAST_COMMAND : ["broadcast", "bcast", "gcast"]
+BROADCAST_COMMAND : ["broadcast", "mcast", "gcast"]
 
 #Blacklist chat
 BLACKLISTCHAT_COMMAND : ["blacklistchat"]
@@ -109,7 +109,7 @@ GBANNED_COMMAND : ["gbannedusers"]
 
 
 
-# Powered By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Powered By @Monu_Gupta_01 & @deva_mandal
+# Join @About_Info_Devil For More Update
+# Join @About_Info_Devil For Information 
+# To Help Chats @Monu_Gupta_01
