@@ -1,7 +1,7 @@
 {
-    "name": "Bgt Music Bot",
+    "name": "Devil Music 2.0",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/c8135608b7f9f77541a82.jpg",
+    "logo": "https://telegra.ph/file/ec086877d6aea534efb3d.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,8 +43,8 @@
         "required": true
       },
       "SUPPORT_GROUP": {
-        "description": "Input Your Support Group with Full Link like https://t.me/Bgt_Chat",
-        "value": "https://t.me/devilmusic0123",
+        "description": "Input Your Support Group with Full Link like https://t.me/About_Info_Devil",
+        "value": "https://t.me/About_Info_Devil",
         "required": true
       },
       "SUPPORT_CHANNEL": {
