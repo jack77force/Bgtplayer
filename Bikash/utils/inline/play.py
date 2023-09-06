@@ -14,25 +14,25 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     bikash = math.floor(percentage)
     if 0 < bikash <= 10:
-        bar = "mkg════════"
+        bar = "Devil════════"
     elif 10 < bikash < 20:
-        bar = "═mkg═══════"
+        bar = "═Devil═══════"
     elif 20 <= bikash < 30:
-        bar = "══mkg══════"
+        bar = "══Devil══════"
     elif 30 <= bikash < 40:
-        bar = "═══mkg═════"
+        bar = "═══Devil═════"
     elif 40 <= bikash < 50:
-        bar = "════mkg════"
+        bar = "════Devil════"
     elif 50 <= bikash < 60:
-        bar = "═════mkg═══"
+        bar = "═════Devil═══"
     elif 60 <= bikash < 70:
-        bar = "══════mkg══"
+        bar = "══════Devil══"
     elif 70 <= bikash < 80:
-        bar = "═══════mkg═"
+        bar = "═══════Devil═"
     elif 80 <= bikash < 95:
-        bar = "════════mkg"
+        bar = "════════Devil"
     else:
-        bar = "════════MKG"
+        bar = "════════DEVIL"
 
     buttons = [
         [
@@ -91,25 +91,25 @@ def telegram_markup_timer(_, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     bikash = math.floor(percentage)
     if 0 < bikash <= 10:
-        bar = "bgt════════"
+        bar = "Devil════════"
     elif 10 < bikash < 20:
-        bar = "═bgt═══════"
+        bar = "═Devil═══════"
     elif 20 <= bikash < 30:
-        bar = "══bgt══════"
+        bar = "══Devil══════"
     elif 30 <= bikash < 40:
-        bar = "═══bgt═════"
+        bar = "═══Devil═════"
     elif 40 <= bikash < 50:
-        bar = "════bgt════"
+        bar = "════Devil════"
     elif 50 <= bikash < 60:
-        bar = "═════bgt═══"
+        bar = "═════Devil═══"
     elif 60 <= bikash < 70:
-        bar = "══════bgt══"
+        bar = "══════Devil══"
     elif 70 <= bikash < 80:
-        bar = "═══════bgt═"
+        bar = "═══════Devil═"
     elif 80 <= bikash < 95:
-        bar = "════════bgt"
+        bar = "════════Devil"
     else:
-        bar = "════════BGT"
+        bar = "════════DEVIL"
 
     buttons = [
         [
