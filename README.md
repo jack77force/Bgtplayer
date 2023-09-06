@@ -70,7 +70,7 @@ python3 -m modules
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![White Devil](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://telegram.me/Monu_Gupta_01)
+[![White Devil](https://telegra.ph/file/0ff9d1199c3329b1f1036.jpg)](https://telegram.me/Monu_Gupta_01)
 
 
 #### Main Developer = [Devil](https://t.me/Monu_Gupta_01)
