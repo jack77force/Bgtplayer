@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @Monu_Gupta_01 & @deva_mandal
 
-### Join @BikashGadgetsTech For More Update
+### Join @About_Info_Devil For More Update
 
-### Join @AdityaCheats For Hack
+### Join @About_Info_Devil For Information 
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### To Contact Me @About_In_Bot
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [𝐖𝐡𝐢𝐭𝐞 𝐃𝐞𝐯𝐢𝐥](https://telegram.me/Monu_Gupta_01)
 
 
 ### ABOUT THIS BOT
@@ -16,29 +16,29 @@
 ## Deploy
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
-## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
+## 🥀 Bot Deploy On Workflow / (MKG LINUX)
  At 1st Import This Repo Then Input All Value In Internal File || Then Proceed Kaali Linux Value Or Ect.
 
-## 🥀 Kaali Linux Tutorial
+## 🥀 Mkg Linux Tutorial
 
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
+[Mkg Linux](https://www.youtube.com/@iamprabhakar09)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[𝐃𝐞𝐯𝐢𝐥](https://telegram.me/Monu_Gupta_01)
 
 ## Telegram 🏪
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://telegram.me/About_Info_Devil)
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Bikashgadgetstech)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://telegram.me/About_Info_Devil)
 
 ## YouTube 📺
 
-[YouTube Channel](https://youtube.com/channel/UCUkj6FFzdsOO5acUXVOEECg)
+[YouTube Channel](https://www.youtube.com/@iamprabhakar09)
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/Bgtplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Monu0777/Maxmusic)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
@@ -52,7 +52,7 @@
 4) nvm install node
 
 5. Clone the Repository :
-git clone https://github.com/BikashhalderNew/BgtPlayer &&  cd Bgtplayer
+git clone https://github.com/Monu0777/Maxmusic &&  cd DevilPlayer
 
 6. Install Installer : 
 pip3 install -r Installer
@@ -63,21 +63,21 @@ Edit Internal with your values or you can simple copy a config from here and pas
 Press I button on keyboard to start editing.
 Press Ctrl + C  once you are done with editing vars and type :wq to save Internal or :qa to exit editing.
 
-9. Finally Run BGT Music Bot :
+9. Finally Run Devil Music Bot :
 python3 -m modules 
 
 
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Bikash Halder](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/BikashHalder)
+[![White Devil](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://telegram.me/Monu_Gupta_01)
 
 
-#### Main Developer = [Bikash](https://t.me/BikashHalder)
+#### Main Developer = [Devil](https://t.me/Monu_Gupta_01)
 
 ## 💕 Special Thanks
 
-✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
+✅ Monu Gupta Thanks For Fixed All Error Or Lovely Support 💕
 
 ### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [Monu Gupta](https://telegram.me/Monu_Gupta_01) & [Deva Mandal](https://t.me/deva_mandal)
