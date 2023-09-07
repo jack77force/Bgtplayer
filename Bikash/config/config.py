@@ -69,7 +69,7 @@ autoclean = []
 ############################
 
 START_IMG_URL = getenv("https://telegra.ph/file/b4ebbe5275f1f8a44671b.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://te.legra.ph/file/3127b3484676bd2254e97.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/b4ebbe5275f1f8a44671b.jpg")
 
 PLAYLIST_IMG_URL = "https://telegra.ph/file/cb02eadfceb1e13e38da0.png"
 GLOBAL_IMG_URL = "https://te.legra.ph/file/2e2741f5dfe9f62eed91d.png"
@@ -107,7 +107,7 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "resources/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://te.legra.ph/file/3127b3484676bd2254e97.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/b4ebbe5275f1f8a44671b.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "resources/Ping.jpeg":
