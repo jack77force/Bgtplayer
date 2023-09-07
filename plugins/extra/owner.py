@@ -22,7 +22,7 @@ async def owner(client: Client, message: Message):
             ],          
             [
                     InlineKeyboardButton(
-                        "🥀 𝐃𝐞𝐯𝐚 🥀", url=f"https://t.me/deva_mandal")
+                        "🥀 𝐃𝐞𝐯𝐚 𝐒𝐢𝐫 🥀", url=f"https://t.me/deva_mandal")
                 ],
                 [
                     InlineKeyboardButton(
