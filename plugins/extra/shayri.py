@@ -6,10 +6,8 @@ import os
 import re
 import asyncio
 import time
-from AnonX import app
-import string
-from strings import get_command
-
+from Bikash import app
+from Bikash.utils.bgtmusic.bk import command
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 SHAYRI = [ " 🌺**बहुत अच्छा लगता है तुझे सताना और फिर प्यार से तुझे मनाना।**🌺 \n\n**🥀Bahut aacha lagta hai tujhe satana Aur fir pyar se tujhe manana.🥀** ",
