@@ -71,7 +71,7 @@ autoclean = []
 START_IMG_URL = getenv("https://telegra.ph/file/b4ebbe5275f1f8a44671b.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/d0a6759ae76fcd5f6cf63.jpg")
 
-PLAYLIST_IMG_URL = "https://telegra.ph/file/cb02eadfceb1e13e38da0.png"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/fa6e6d1558e6539723b6d.jpg"
 GLOBAL_IMG_URL = "https://te.legra.ph/file/2e2741f5dfe9f62eed91d.png"
 STATS_IMG_URL = "https://te.legra.ph/file/2be94fc76030833b51a78.png"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/d68f9ff85714d4dbc6069.png"
