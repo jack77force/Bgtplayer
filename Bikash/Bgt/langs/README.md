@@ -1,6 +1,6 @@
-# powered By Bikash Halder Or Aditya Halder
-# Bangali Language Add By Bikash Halder
+# powered By Monu Gupta Or Deva Mandal 
+# Bangali Language Add By Monu Gupta
 # telegram first BENGALI Support Music Bot
-[BIKASHHALDER](t.me/Bikashhalder)
+[MONUGUPTA](telegram.me/Monu_Gupta_01)
 
 # **Don't Use Bengali Language Without Credit** 😎😎
