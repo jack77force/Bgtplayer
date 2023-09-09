@@ -27,10 +27,10 @@ async def bikash(client: Client, message: Message):
                 
                 [
                     InlineKeyboardButton(
-                        "🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 🥀", url=f"https://t.me/mission_successs"
+                        "💝 𝐆ɾσυ𝐏 💝", url=f"https://t.me/mission_successs"
                     ),
                     InlineKeyboardButton(
-                        "🥀 𝐉𝐨𝐢𝐧 𝐍𝐨𝐰 🥀", url=f"https://t.me/Current_Affairs_Zone_2")
+                        "💝 𝐂ԋαɳɳҽ𝐋 💝", url=f"https://t.me/About_Info_Devil")
                 ]
             ]
         ),
