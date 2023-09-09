@@ -10,7 +10,8 @@ from Bikash import app
 from Bikash.utils.bgtmusic.bk import command
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
-shayri = [ "Hello Guys"]
+shayri = [ "Hello Guys",
+"Now You See Me" ]
 
 @app.on_message(
     filters.command("shayri")
