@@ -1,7 +1,7 @@
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @Monu_Gupta_01
+# Join @About_Info_Devil For More Update
+# Join @About_Info_Devil For Information 
+# Join Our Chats @About_In_Bot 
 
 import os
 import re
@@ -167,7 +167,7 @@ async def gen_qthumb(videoid, user_id):
 
 
 
-# Power By @BikashHalder & @AdityaHalder 
-# Join @BikashGadgetsTech For More Update
-# Join @AdityaCheats For Hack
-# Join Our Chats @Bgt_Chat & @Adityadiscus 
+# Power By @Monu_Gupta_01
+# Join @About_Info_Devil For More Update
+# Join @About_Info_Devil For Information 
+# Join Our Chats @About_In_Bot 
