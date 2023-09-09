@@ -23,7 +23,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("Bikash").error(
+        LOGGER("Devil").error(
             "No Assistant Clients Vars Defined!.. Exiting Process.."
         )
         return
@@ -31,7 +31,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("Bikash").warning(
+        LOGGER("Devil").warning(
             "No Spotify Vars defined. Your bot won't be able to play spotify queries."
         )
     try:
@@ -60,17 +60,17 @@ async def init():
             "https://telegra.ph/file/4878eba458919fab40829.jpg"
         )
     except NoActiveGroupCall:
-        LOGGER("Bikash").error(
+        LOGGER("Devil").error(
             "[ERROR] - \n\nPlease turn on your Logger Group's Voice Call. Make sure you never close/end voice call in your log group"
         )
         sys.exit()
     except:
         pass
     await Bikashh.decorators()
-    LOGGER("Bikash").info("Bikash Player Started")
+    LOGGER("Devil").info("Devil Player Started")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("Bikash").info("Stopping Music Bot...")
+    LOGGER("Devil").info("Stopping Music Bot...")
