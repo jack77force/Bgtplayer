@@ -1,5 +1,5 @@
-## error fixed By Aditya Halder 
-## powered by Bikash Halder & Aditya Halder
+## error fixed By Monu Gupta 
+## powered by Monu Gupta & Deva Mandal
 
 import os
 from random import randint
