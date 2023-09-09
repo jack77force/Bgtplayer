@@ -107,9 +107,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "resources/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://telegra.ph/file/d0a6759ae76fcd5f6cf63.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/b6beb83552913a52b296c.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "resources/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://telegra.ph/file/b4ebbe5275f1f8a44671b.jpg"
+            START_IMG_URL = "https://telegra.ph/file/599a27a2228aa580e0327.jpg"
