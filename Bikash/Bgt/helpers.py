@@ -75,7 +75,7 @@ HELP_5 = """✅<u>**Extra  Commands:**</u>
 
 /seekback or /cseekback - Backward Seek the music to your duration
 
-/bikash - check who is Bikash
+/devil - check who is Devil
 
 /repo - for repo
 
@@ -102,15 +102,15 @@ HELP_7 = """✨ **ping cmd :**
 
 HELP_8 = """✅<u>**Play Commands:**</u>
 
-Available Commands = play, bgt, vplay , cplay
+Available Commands = play, mkg, vplay , cplay
 
-ForcePlay Commands = playforce , bgtforce vplayforce , cplayforce
+ForcePlay Commands = playforce , mkgforce vplayforce , cplayforce
 
 **c** stands for channel play.
 **v** stands for video play.
 **force** stands for force play.
 
-/play or /bgt or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
+/play or /mkg or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
 
 /playforce or /force or /vplayforce or /cplayforce -  **Force Play** stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
 
@@ -165,7 +165,7 @@ HELP_11 = """😅**<u> started with bot</u>**
 
 /settings - Get a complete group's settings with inline buttons.
 
-/sudolist - Check Sudo Users of Bikash Aditya Player Bot"""
+/sudolist - Check Sudo Users of Devil Heaven Player Bot"""
 
 HELP_12 = """👤**<u>GBAN FUNCTION:</u>**
 
