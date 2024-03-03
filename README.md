@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">
-      ʙɪᴋᴀꜱʜ ᴍᴜꜱɪᴄ 2.0
+      ᴋɪʀᴛᴜ ᴍᴜꜱɪᴄ 2.0
 </h2>
 
 
@@ -181,9 +181,9 @@ Press ``Ctrl+C `` when you're done with editing env and ``:wq`` to save the env<
 
 ## Now its time to give some credits ✨ :
 
-- [BGT](https://github.com/BikashHalder) For everything 
+- [BGT]([https://github.com/jack77force/error.git]) For everything 
 - [Aditya-Halder](https://github.com/AdityaHalder) For fixed errors
-- [YUKKI-MUSIC](https://github.com/TeamYukki) For Yukki Music Bot
+- [ᴋɪʀᴛ-ᴍᴜꜱɪᴄ](https://github.com/TeamYukki) For ᴋɪʀᴛᴜ ᴍᴜꜱɪᴄ ʙᴏᴛ
 - [Dan](https://github.com/pyrogram) For pyrogram
 - [Laky](https://github.com/pytgcalls) For py-tgcalls
 
